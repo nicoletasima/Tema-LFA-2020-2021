@@ -4,9 +4,9 @@ Tema LFA 2020/2021
 
 	Compilare: make
 	Rulare: make runX, x <- [1:6] (primele 3 teste sunt testele propuse, iar
-ultimele 3 sunt cele adaugate de mine pentru exemplificare)
+	ultimele 3 sunt cele adaugate de mine pentru exemplificare)
 
-	In cadrul temei am avut de parcurs un fisier XHTML corect din puncte de 
+In cadrul temei am avut de parcurs un fisier XHTML corect din punct de 
 vedere sintactic din care am avut de extras elementele si atributele alaturi
 de valorile acestora.
 	Mi-am declarat variabile C necesare: contorul i si o variabila care
